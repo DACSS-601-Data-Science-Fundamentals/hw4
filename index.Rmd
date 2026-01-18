@@ -1,0 +1,140 @@
+---
+title: "Homework 4"
+author: "Miranda Law"
+date: "2026-01-18"
+output: html_document
+---
+
+# Install and load packages
+```{r}
+# install the rio package if necessary
+# install.packages('rio')
+
+# load the rio package into session
+library(rio) # package needed
+```
+
+# Read in the cleaned data from Homework 3
+```{r}
+# variable for cleaned maternity mortality ratio data URL from Homework 3
+maternalMortalityRatio_URL = "https://github.com/DACSS-601-Data-Science-Fundamentals/hw3/raw/refs/heads/main/cleaned-maternity-mortality-ratio.csv"
+
+# variable for cleaned infant mortality ratio data URL from Homework 3
+infantMortalityRate_URL = "https://github.com/DACSS-601-Data-Science-Fundamentals/hw3/raw/refs/heads/main/cleaned-infant-mortality-rate.csv"
+
+# variable for cleaned life expectancy at birth data URL from Homework 3
+lifeExpectancyAtBirth_URL = "https://github.com/DACSS-601-Data-Science-Fundamentals/hw3/raw/refs/heads/main/cleaned-life-expectancy-at-birth.csv"
+
+# read in maternal morality ratio CSV and have empty cells be NA
+maternalMortalityRatio = read.csv(maternalMortalityRatio_URL,na.strings = c(""))
+
+# read in infant morality ratio CSV and have empty cells be NA
+infantMortalityRate = read.csv(infantMortalityRate_URL,na.strings = c(""))
+
+# read in life expectancy at birth CSV and have empty cells be NA
+lifeExpectancyAtBirth = read.csv(lifeExpectancyAtBirth_URL,na.strings = c(""))
+```
+
+# Merge data
+## Join Maternal Mortality Ratio data with Infant Mortality Rate data
+```{r}
+# use inner join to merge Maternal Mortality Ratio Data with Infant Mortality Rate Data by country
+joinedData = merge(maternalMortalityRatio,infantMortalityRate, all=TRUE, by="Country")
+
+# check joined data
+head(joinedData)
+```
+
+## Join Maternal Mortality Ratio data and Infant Mortality Rate data with Life Expectancy at Birth data
+```{r}
+# use inner join to merge the Life Expectancy at Birth Data with the joined data above by country
+joinedData = merge(joinedData,lifeExpectancyAtBirth, all=TRUE, by="Country")
+
+# check joined data
+head(joinedData)
+```
+
+## Clean joined data
+### Check for empty cells in each column
+```{r}
+# count empty cells for each column in joinedData
+print(colSums(is.na(joinedData)))
+```
+Notice that there are three different "Region" columns. We will keep the "Region" column since it has no "NA"s.
+
+### Select columns
+```{r}
+# select Country, DeathsPer100k, DeathsPer1000, Years, Region columns only
+cleanedJoinedData = joinedData[, c("Country","DeathsPer100k","DeathsPer1000","Years","Region")]
+
+# check joined data after dropping unwanted columns
+head(cleanedJoinedData)
+```
+## Save joined data
+```{r}
+# save the cleaned joined data as a CSV file
+write.csv(cleanedJoinedData,"joinedData.csv", row.names=FALSE)
+
+# read in the saved CSV file for joinedData
+joinedData_CSV = read.csv("joinedData.csv")
+
+# explore the contents of joinedData_CSV
+head(joinedData_CSV)
+```
+
+# Aggregate data by Region
+```{r}
+# sum of data by region for DeathPer100k, DeathsPer1000, Years columns
+sumByRegion = aggregate(data=joinedData,cbind(DeathsPer100k,DeathsPer1000,Years)~Region,sum)
+
+# show aggregated data
+sumByRegion
+```
+## Save aggregated data
+```{r}
+# save the aggregated data as a CSV file
+write.csv(sumByRegion,"aggregatedData.csv", row.names=FALSE)
+
+# read in the saved CSV file for aggregated data by Region
+aggregatedData_CSV = read.csv("aggregatedData.csv")
+
+# explore the contents of aggregatedData_CSV
+aggregatedData_CSV
+```
+# Reshape data to long format
+## Install and load packages
+```{r}
+# install the tidyr package if necessary
+# install.packages('tidyr')
+
+# load the tidyr package into session
+library(tidyr) # package needed
+```
+
+## Pivot from wide to long
+```{r}
+# revisit cleanedJoinedData
+head(cleanedJoinedData)
+
+# reshape the cleanedJoinedData from wide to long
+cleanedJoinedData_long = cleanedJoinedData |>
+  tidyr::pivot_longer(
+    cols = c(DeathsPer100k, DeathsPer1000, Years), # columns to pivot
+    names_to = "Metric", # new column for variable names
+    values_to = "Value" # new column for values
+    )
+# check reshaped data
+head(cleanedJoinedData_long)
+```
+## Save reshaped data
+```{r}
+# save the reshaped data as a CSV file
+write.csv(cleanedJoinedData_long,"reshapedData.csv", row.names=FALSE)
+
+# read in the saved CSV file for reshaped data
+reshapedData_CSV = read.csv("reshapedData.csv")
+
+# explore the contents of reshapedData_CSV
+head(reshapedData_CSV)
+```
+Recall that there were empty cells in the "DeathsPer100k" column. Empty cells were not dropped to show that the data is not available.

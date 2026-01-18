@@ -1,0 +1,682 @@
+"Country","Region","Metric","Value"
+"Afghanistan","South Asia","DeathsPer100k",521
+"Afghanistan","South Asia","DeathsPer1000",42
+"Afghanistan","South Asia","Years",54.4
+"Albania","Europe","DeathsPer100k",7
+"Albania","Europe","DeathsPer1000",10.8
+"Albania","Europe","Years",79.9
+"Algeria","Africa","DeathsPer100k",62
+"Algeria","Africa","DeathsPer1000",18.6
+"Algeria","Africa","Years",77.9
+"American Samoa","Australia and Oceania","DeathsPer100k",NA
+"American Samoa","Australia and Oceania","DeathsPer1000",9.5
+"American Samoa","Australia and Oceania","Years",75.8
+"Andorra","Europe","DeathsPer100k",11
+"Andorra","Europe","DeathsPer1000",3.3
+"Andorra","Europe","Years",83.8
+"Angola","Africa","DeathsPer100k",183
+"Angola","Africa","DeathsPer1000",46.1
+"Angola","Africa","Years",62.9
+"Anguilla","Central America and the Caribbean","DeathsPer100k",NA
+"Anguilla","Central America and the Caribbean","DeathsPer1000",2.9
+"Anguilla","Central America and the Caribbean","Years",82.6
+"Antigua and Barbuda","Central America and the Caribbean","DeathsPer100k",35
+"Antigua and Barbuda","Central America and the Caribbean","DeathsPer1000",13.3
+"Antigua and Barbuda","Central America and the Caribbean","Years",78.3
+"Argentina","South America","DeathsPer100k",33
+"Argentina","South America","DeathsPer1000",7.4
+"Argentina","South America","Years",78.8
+"Armenia","Central Asia","DeathsPer100k",19
+"Armenia","Central Asia","DeathsPer1000",11.3
+"Armenia","Central Asia","Years",76.7
+"Aruba","Central America and the Caribbean","DeathsPer100k",NA
+"Aruba","Central America and the Caribbean","DeathsPer1000",11.2
+"Aruba","Central America and the Caribbean","Years",78.5
+"Australia","Australia and Oceania","DeathsPer100k",2
+"Australia","Australia and Oceania","DeathsPer1000",3
+"Australia","Australia and Oceania","Years",83.5
+"Austria","Europe","DeathsPer100k",6
+"Austria","Europe","DeathsPer1000",3.2
+"Austria","Europe","Years",82.7
+"Azerbaijan","Central Asia","DeathsPer100k",18
+"Azerbaijan","Central Asia","DeathsPer1000",10.7
+"Azerbaijan","Central Asia","Years",75.9
+"Bahamas, The","Central America and the Caribbean","DeathsPer100k",76
+"Bahamas, The","Central America and the Caribbean","DeathsPer1000",9.2
+"Bahamas, The","Central America and the Caribbean","Years",76.7
+"Bahrain","Middle East","DeathsPer100k",17
+"Bahrain","Middle East","DeathsPer1000",9.6
+"Bahrain","Middle East","Years",80.4
+"Bangladesh","South Asia","DeathsPer100k",115
+"Bangladesh","South Asia","DeathsPer1000",22
+"Bangladesh","South Asia","Years",75.2
+"Barbados","Central America and the Caribbean","DeathsPer100k",35
+"Barbados","Central America and the Caribbean","DeathsPer1000",15.1
+"Barbados","Central America and the Caribbean","Years",79
+"Belarus","Europe","DeathsPer100k",1
+"Belarus","Europe","DeathsPer1000",2.1
+"Belarus","Europe","Years",74.7
+"Belgium","Europe","DeathsPer100k",4
+"Belgium","Europe","DeathsPer1000",3
+"Belgium","Europe","Years",82.3
+"Belize","Central America and the Caribbean","DeathsPer100k",67
+"Belize","Central America and the Caribbean","DeathsPer1000",11.3
+"Belize","Central America and the Caribbean","Years",74.3
+"Benin","Africa","DeathsPer100k",518
+"Benin","Africa","DeathsPer1000",51.6
+"Benin","Africa","Years",63
+"Bermuda","North America","DeathsPer100k",NA
+"Bermuda","North America","DeathsPer1000",2.1
+"Bermuda","North America","Years",82.5
+"Bhutan","South Asia","DeathsPer100k",47
+"Bhutan","South Asia","DeathsPer1000",23
+"Bhutan","South Asia","Years",73.7
+"Bolivia","South America","DeathsPer100k",146
+"Bolivia","South America","DeathsPer1000",22.1
+"Bolivia","South America","Years",72.5
+"Bosnia and Herzegovina","Europe","DeathsPer100k",6
+"Bosnia and Herzegovina","Europe","DeathsPer1000",3.8
+"Bosnia and Herzegovina","Europe","Years",78.5
+"Botswana","Africa","DeathsPer100k",155
+"Botswana","Africa","DeathsPer1000",27.8
+"Botswana","Africa","Years",66.4
+"Brazil","South America","DeathsPer100k",67
+"Brazil","South America","DeathsPer1000",12.7
+"Brazil","South America","Years",76.3
+"British Virgin Islands","Central America and the Caribbean","DeathsPer100k",NA
+"British Virgin Islands","Central America and the Caribbean","DeathsPer1000",13
+"British Virgin Islands","Central America and the Caribbean","Years",80.1
+"Brunei","East and Southeast Asia","DeathsPer100k",36
+"Brunei","East and Southeast Asia","DeathsPer1000",9.8
+"Brunei","East and Southeast Asia","Years",78.9
+"Bulgaria","Europe","DeathsPer100k",6
+"Bulgaria","Europe","DeathsPer1000",7.5
+"Bulgaria","Europe","Years",76.1
+"Burkina Faso","Africa","DeathsPer100k",242
+"Burkina Faso","Africa","DeathsPer1000",48
+"Burkina Faso","Africa","Years",64.2
+"Burma","East and Southeast Asia","DeathsPer100k",185
+"Burma","East and Southeast Asia","DeathsPer1000",30.8
+"Burma","East and Southeast Asia","Years",70.3
+"Burundi","Africa","DeathsPer100k",392
+"Burundi","Africa","DeathsPer1000",35.3
+"Burundi","Africa","Years",68.1
+"Cabo Verde","Africa","DeathsPer100k",40
+"Cabo Verde","Africa","DeathsPer1000",21.9
+"Cabo Verde","Africa","Years",74.3
+"Cambodia","East and Southeast Asia","DeathsPer100k",137
+"Cambodia","East and Southeast Asia","DeathsPer1000",27.2
+"Cambodia","East and Southeast Asia","Years",71.4
+"Cameroon","Africa","DeathsPer100k",258
+"Cameroon","Africa","DeathsPer1000",44.6
+"Cameroon","Africa","Years",64.2
+"Canada","North America","DeathsPer100k",12
+"Canada","North America","DeathsPer1000",3.8
+"Canada","North America","Years",84.2
+"Cayman Islands","Central America and the Caribbean","DeathsPer100k",NA
+"Cayman Islands","Central America and the Caribbean","DeathsPer1000",7.1
+"Cayman Islands","Central America and the Caribbean","Years",82.5
+"Central African Republic","Africa","DeathsPer100k",692
+"Central African Republic","Africa","DeathsPer1000",79.3
+"Central African Republic","Africa","Years",56.4
+"Chad","Africa","DeathsPer100k",748
+"Chad","Africa","DeathsPer1000",61.1
+"Chad","Africa","Years",60
+"Chile","South America","DeathsPer100k",10
+"Chile","South America","DeathsPer1000",4.5
+"Chile","South America","Years",80.3
+"China","East and Southeast Asia","DeathsPer100k",16
+"China","East and Southeast Asia","DeathsPer1000",6
+"China","East and Southeast Asia","Years",78.7
+"Colombia","South America","DeathsPer100k",59
+"Colombia","South America","DeathsPer1000",11.6
+"Colombia","South America","Years",74.9
+"Comoros","Africa","DeathsPer100k",179
+"Comoros","Africa","DeathsPer1000",53.9
+"Comoros","Africa","Years",67.8
+"Congo, Democratic Republic of the","Africa","DeathsPer100k",427
+"Congo, Democratic Republic of the","Africa","DeathsPer1000",55.8
+"Congo, Democratic Republic of the","Africa","Years",62.6
+"Congo, Republic of the","Africa","DeathsPer100k",241
+"Congo, Republic of the","Africa","DeathsPer1000",29.9
+"Congo, Republic of the","Africa","Years",72.9
+"Cook Islands","Australia and Oceania","DeathsPer100k",0
+"Cook Islands","Australia and Oceania","DeathsPer1000",14.8
+"Cook Islands","Australia and Oceania","Years",77.6
+"Costa Rica","Central America and the Caribbean","DeathsPer100k",24
+"Costa Rica","Central America and the Caribbean","DeathsPer1000",6.3
+"Costa Rica","Central America and the Caribbean","Years",80.3
+"Cote d'Ivoire","Africa","DeathsPer100k",359
+"Cote d'Ivoire","Africa","DeathsPer1000",52.3
+"Cote d'Ivoire","Africa","Years",63.2
+"Croatia","Europe","DeathsPer100k",3
+"Croatia","Europe","DeathsPer1000",3.4
+"Croatia","Europe","Years",77.7
+"Cuba","Central America and the Caribbean","DeathsPer100k",35
+"Cuba","Central America and the Caribbean","DeathsPer1000",5.2
+"Cuba","Central America and the Caribbean","Years",80.1
+"Curacao","Central America and the Caribbean","DeathsPer100k",NA
+"Curacao","Central America and the Caribbean","DeathsPer1000",7.4
+"Curacao","Central America and the Caribbean","Years",79.9
+"Cyprus","Europe","DeathsPer100k",14
+"Cyprus","Europe","DeathsPer1000",7.9
+"Cyprus","Europe","Years",80.2
+"Czechia","Europe","DeathsPer100k",3
+"Czechia","Europe","DeathsPer1000",2.5
+"Czechia","Europe","Years",78.6
+"Denmark","Europe","DeathsPer100k",4
+"Denmark","Europe","DeathsPer1000",3.1
+"Denmark","Europe","Years",82.1
+"Djibouti","Africa","DeathsPer100k",162
+"Djibouti","Africa","DeathsPer1000",44.3
+"Djibouti","Africa","Years",65.9
+"Dominica","Central America and the Caribbean","DeathsPer100k",36
+"Dominica","Central America and the Caribbean","DeathsPer1000",10.5
+"Dominica","Central America and the Caribbean","Years",78.7
+"Dominican Republic","Central America and the Caribbean","DeathsPer100k",124
+"Dominican Republic","Central America and the Caribbean","DeathsPer1000",20.8
+"Dominican Republic","Central America and the Caribbean","Years",72.6
+"Ecuador","South America","DeathsPer100k",55
+"Ecuador","South America","DeathsPer1000",11.2
+"Ecuador","South America","Years",74.9
+"Egypt","Africa","DeathsPer100k",17
+"Egypt","Africa","DeathsPer1000",16.4
+"Egypt","Africa","Years",75
+"El Salvador","Central America and the Caribbean","DeathsPer100k",39
+"El Salvador","Central America and the Caribbean","DeathsPer1000",10
+"El Salvador","Central America and the Caribbean","Years",75.9
+"Equatorial Guinea","Africa","DeathsPer100k",174
+"Equatorial Guinea","Africa","DeathsPer1000",76.9
+"Equatorial Guinea","Africa","Years",63.9
+"Eritrea","Africa","DeathsPer100k",291
+"Eritrea","Africa","DeathsPer1000",39
+"Eritrea","Africa","Years",67.5
+"Estonia","Europe","DeathsPer100k",5
+"Estonia","Europe","DeathsPer1000",2
+"Estonia","Europe","Years",78.4
+"Eswatini","Africa","DeathsPer100k",118
+"Eswatini","Africa","DeathsPer1000",38
+"Eswatini","Africa","Years",60.7
+"Ethiopia","Africa","DeathsPer100k",195
+"Ethiopia","Africa","DeathsPer1000",31.3
+"Ethiopia","Africa","Years",67.7
+"Faroe Islands","Europe","DeathsPer100k",NA
+"Faroe Islands","Europe","DeathsPer1000",5.6
+"Faroe Islands","Europe","Years",81.7
+"Fiji","Australia and Oceania","DeathsPer100k",30
+"Fiji","Australia and Oceania","DeathsPer1000",9.4
+"Fiji","Australia and Oceania","Years",74.8
+"Finland","Europe","DeathsPer100k",8
+"Finland","Europe","DeathsPer1000",1.9
+"Finland","Europe","Years",82.2
+"France","Europe","DeathsPer100k",7
+"France","Europe","DeathsPer1000",3.1
+"France","Europe","Years",82.6
+"French Polynesia","Australia and Oceania","DeathsPer100k",NA
+"French Polynesia","Australia and Oceania","DeathsPer1000",4.2
+"French Polynesia","Australia and Oceania","Years",78.9
+"Gabon","Africa","DeathsPer100k",233
+"Gabon","Africa","DeathsPer1000",26
+"Gabon","Africa","Years",70.4
+"Gambia, The","Africa","DeathsPer100k",354
+"Gambia, The","Africa","DeathsPer1000",35
+"Gambia, The","Africa","Years",68.4
+"Gaza Strip","Middle East","DeathsPer100k",16
+"Gaza Strip","Middle East","DeathsPer1000",14.2
+"Gaza Strip","Middle East","Years",75.5
+"Georgia","Central Asia","DeathsPer100k",20
+"Georgia","Central Asia","DeathsPer1000",20.9
+"Georgia","Central Asia","Years",72.8
+"Germany","Europe","DeathsPer100k",4
+"Germany","Europe","DeathsPer1000",3
+"Germany","Europe","Years",81.9
+"Ghana","Africa","DeathsPer100k",234
+"Ghana","Africa","DeathsPer1000",30.5
+"Ghana","Africa","Years",70.1
+"Gibraltar","Europe","DeathsPer100k",NA
+"Gibraltar","Europe","DeathsPer1000",5.9
+"Gibraltar","Europe","Years",80.9
+"Greece","Europe","DeathsPer100k",5
+"Greece","Europe","DeathsPer1000",3.4
+"Greece","Europe","Years",81.9
+"Greenland","North America","DeathsPer100k",NA
+"Greenland","North America","DeathsPer1000",8.3
+"Greenland","North America","Years",74.5
+"Grenada","Central America and the Caribbean","DeathsPer100k",48
+"Grenada","Central America and the Caribbean","DeathsPer1000",8.8
+"Grenada","Central America and the Caribbean","Years",76.3
+"Guam","Australia and Oceania","DeathsPer100k",NA
+"Guam","Australia and Oceania","DeathsPer1000",10.7
+"Guam","Australia and Oceania","Years",78
+"Guatemala","Central America and the Caribbean","DeathsPer100k",94
+"Guatemala","Central America and the Caribbean","DeathsPer1000",23.4
+"Guatemala","Central America and the Caribbean","Years",73.5
+"Guernsey","Europe","DeathsPer100k",NA
+"Guernsey","Europe","DeathsPer1000",3.2
+"Guernsey","Europe","Years",83.6
+"Guinea","Africa","DeathsPer100k",494
+"Guinea","Africa","DeathsPer1000",45.8
+"Guinea","Africa","Years",64.6
+"Guinea-Bissau","Africa","DeathsPer100k",505
+"Guinea-Bissau","Africa","DeathsPer1000",45.1
+"Guinea-Bissau","Africa","Years",64.5
+"Guyana","South America","DeathsPer100k",75
+"Guyana","South America","DeathsPer1000",20.6
+"Guyana","South America","Years",72.4
+"Haiti","Central America and the Caribbean","DeathsPer100k",328
+"Haiti","Central America and the Caribbean","DeathsPer1000",35
+"Haiti","Central America and the Caribbean","Years",65.6
+"Honduras","Central America and the Caribbean","DeathsPer100k",47
+"Honduras","Central America and the Caribbean","DeathsPer1000",15.4
+"Honduras","Central America and the Caribbean","Years",73.1
+"Hong Kong","East and Southeast Asia","DeathsPer100k",NA
+"Hong Kong","East and Southeast Asia","DeathsPer1000",2.4
+"Hong Kong","East and Southeast Asia","Years",84
+"Hungary","Europe","DeathsPer100k",12
+"Hungary","Europe","DeathsPer1000",4.6
+"Hungary","Europe","Years",76
+"Iceland","Europe","DeathsPer100k",3
+"Iceland","Europe","DeathsPer1000",1.6
+"Iceland","Europe","Years",84
+"India","South Asia","DeathsPer100k",80
+"India","South Asia","DeathsPer1000",30.5
+"India","South Asia","Years",68.2
+"Indonesia","East and Southeast Asia","DeathsPer100k",140
+"Indonesia","East and Southeast Asia","DeathsPer1000",18.5
+"Indonesia","East and Southeast Asia","Years",73.6
+"Iran","Middle East","DeathsPer100k",16
+"Iran","Middle East","DeathsPer1000",9.7
+"Iran","Middle East","Years",75.6
+"Iraq","Middle East","DeathsPer100k",66
+"Iraq","Middle East","DeathsPer1000",18.3
+"Iraq","Middle East","Years",73.7
+"Ireland","Europe","DeathsPer100k",4
+"Ireland","Europe","DeathsPer1000",3.2
+"Ireland","Europe","Years",82
+"Isle of Man","Europe","DeathsPer100k",NA
+"Isle of Man","Europe","DeathsPer1000",4
+"Isle of Man","Europe","Years",82.5
+"Israel","Middle East","DeathsPer100k",2
+"Israel","Middle East","DeathsPer1000",2.6
+"Israel","Middle East","Years",83.1
+"Italy","Europe","DeathsPer100k",6
+"Italy","Europe","DeathsPer1000",3
+"Italy","Europe","Years",83
+"Jamaica","Central America and the Caribbean","DeathsPer100k",130
+"Jamaica","Central America and the Caribbean","DeathsPer1000",14.5
+"Jamaica","Central America and the Caribbean","Years",76.3
+"Japan","East and Southeast Asia","DeathsPer100k",3
+"Japan","East and Southeast Asia","DeathsPer1000",1.8
+"Japan","East and Southeast Asia","Years",85.2
+"Jersey","Europe","DeathsPer100k",NA
+"Jersey","Europe","DeathsPer1000",3.7
+"Jersey","Europe","Years",83
+"Jordan","Middle East","DeathsPer100k",31
+"Jordan","Middle East","DeathsPer1000",12.9
+"Jordan","Middle East","Years",76.5
+"Kazakhstan","Central Asia","DeathsPer100k",10
+"Kazakhstan","Central Asia","DeathsPer1000",7.9
+"Kazakhstan","Central Asia","Years",73.3
+"Kenya","Africa","DeathsPer100k",379
+"Kenya","Africa","DeathsPer1000",26.8
+"Kenya","Africa","Years",70.4
+"Kiribati","Australia and Oceania","DeathsPer100k",80
+"Kiribati","Australia and Oceania","DeathsPer1000",30.8
+"Kiribati","Australia and Oceania","Years",68.5
+"Korea, North","East and Southeast Asia","DeathsPer100k",67
+"Korea, North","East and Southeast Asia","DeathsPer1000",14.7
+"Korea, North","East and Southeast Asia","Years",73.5
+"Korea, South","East and Southeast Asia","DeathsPer100k",4
+"Korea, South","East and Southeast Asia","DeathsPer1000",2.2
+"Korea, South","East and Southeast Asia","Years",83.4
+"Kosovo","Europe","DeathsPer100k",NA
+"Kosovo","Europe","DeathsPer1000",21
+"Kosovo","Europe","Years",73.1
+"Kuwait","Middle East","DeathsPer100k",8
+"Kuwait","Middle East","DeathsPer1000",7
+"Kuwait","Middle East","Years",79.6
+"Kyrgyzstan","Central Asia","DeathsPer100k",42
+"Kyrgyzstan","Central Asia","DeathsPer1000",24
+"Kyrgyzstan","Central Asia","Years",72.9
+"Laos","East and Southeast Asia","DeathsPer100k",112
+"Laos","East and Southeast Asia","DeathsPer1000",34.2
+"Laos","East and Southeast Asia","Years",69
+"Latvia","Europe","DeathsPer100k",19
+"Latvia","Europe","DeathsPer1000",2.4
+"Latvia","Europe","Years",76.4
+"Lebanon","Middle East","DeathsPer100k",15
+"Lebanon","Middle East","DeathsPer1000",7.3
+"Lebanon","Middle East","Years",79.2
+"Lesotho","Africa","DeathsPer100k",478
+"Lesotho","Africa","DeathsPer1000",52.2
+"Lesotho","Africa","Years",60.2
+"Liberia","Africa","DeathsPer100k",628
+"Liberia","Africa","DeathsPer1000",55.2
+"Liberia","Africa","Years",61.6
+"Libya","Africa","DeathsPer100k",59
+"Libya","Africa","DeathsPer1000",10.4
+"Libya","Africa","Years",77.7
+"Liechtenstein","Europe","DeathsPer100k",NA
+"Liechtenstein","Europe","DeathsPer1000",3.8
+"Liechtenstein","Europe","Years",83
+"Lithuania","Europe","DeathsPer100k",8
+"Lithuania","Europe","DeathsPer1000",2.5
+"Lithuania","Europe","Years",76.1
+"Luxembourg","Europe","DeathsPer100k",12
+"Luxembourg","Europe","DeathsPer1000",3.1
+"Luxembourg","Europe","Years",83.4
+"Macau","East and Southeast Asia","DeathsPer100k",NA
+"Macau","East and Southeast Asia","DeathsPer1000",4.3
+"Macau","East and Southeast Asia","Years",85.3
+"Madagascar","Africa","DeathsPer100k",445
+"Madagascar","Africa","DeathsPer1000",38.4
+"Madagascar","Africa","Years",68.8
+"Malawi","Africa","DeathsPer100k",225
+"Malawi","Africa","DeathsPer1000",28.9
+"Malawi","Africa","Years",73
+"Malaysia","East and Southeast Asia","DeathsPer100k",26
+"Malaysia","East and Southeast Asia","DeathsPer1000",6.3
+"Malaysia","East and Southeast Asia","Years",76.6
+"Maldives","South Asia","DeathsPer100k",32
+"Maldives","South Asia","DeathsPer1000",23.7
+"Maldives","South Asia","Years",77.4
+"Mali","Africa","DeathsPer100k",367
+"Mali","Africa","DeathsPer1000",55.8
+"Mali","Africa","Years",63.2
+"Malta","Europe","DeathsPer100k",8
+"Malta","Europe","DeathsPer1000",4.6
+"Malta","Europe","Years",83.6
+"Marshall Islands","Australia and Oceania","DeathsPer100k",155
+"Marshall Islands","Australia and Oceania","DeathsPer1000",20.1
+"Marshall Islands","Australia and Oceania","Years",75.2
+"Mauritania","Africa","DeathsPer100k",381
+"Mauritania","Africa","DeathsPer1000",29.9
+"Mauritania","Africa","Years",65.9
+"Mauritius","Africa","DeathsPer100k",66
+"Mauritius","Africa","DeathsPer1000",11.4
+"Mauritius","Africa","Years",75.4
+"Mexico","North America","DeathsPer100k",42
+"Mexico","North America","DeathsPer1000",12.3
+"Mexico","North America","Years",74.6
+"Micronesia, Federated States of","Australia and Oceania","DeathsPer100k",129
+"Micronesia, Federated States of","Australia and Oceania","DeathsPer1000",20.4
+"Micronesia, Federated States of","Australia and Oceania","Years",75
+"Moldova","Europe","DeathsPer100k",19
+"Moldova","Europe","DeathsPer1000",13.5
+"Moldova","Europe","Years",70.1
+"Monaco","Europe","DeathsPer100k",5
+"Monaco","Europe","DeathsPer1000",1.7
+"Monaco","Europe","Years",89.8
+"Mongolia","East and Southeast Asia","DeathsPer100k",41
+"Mongolia","East and Southeast Asia","DeathsPer1000",8.6
+"Mongolia","East and Southeast Asia","Years",71.9
+"Montenegro","Europe","DeathsPer100k",6
+"Montenegro","Europe","DeathsPer1000",3.1
+"Montenegro","Europe","Years",78.2
+"Montserrat","Central America and the Caribbean","DeathsPer100k",NA
+"Montserrat","Central America and the Caribbean","DeathsPer1000",9.4
+"Montserrat","Central America and the Caribbean","Years",76.1
+"Morocco","Africa","DeathsPer100k",70
+"Morocco","Africa","DeathsPer1000",17.8
+"Morocco","Africa","Years",74.2
+"Mozambique","Africa","DeathsPer100k",82
+"Mozambique","Africa","DeathsPer1000",56.7
+"Mozambique","Africa","Years",58.3
+"Namibia","Africa","DeathsPer100k",139
+"Namibia","Africa","DeathsPer1000",27.1
+"Namibia","Africa","Years",65.9
+"Nauru","Australia and Oceania","DeathsPer100k",273
+"Nauru","Australia and Oceania","DeathsPer1000",7.5
+"Nauru","Australia and Oceania","Years",68.6
+"Nepal","South Asia","DeathsPer100k",142
+"Nepal","South Asia","DeathsPer1000",23.4
+"Nepal","South Asia","Years",73
+"Netherlands","Europe","DeathsPer100k",4
+"Netherlands","Europe","DeathsPer1000",3.6
+"Netherlands","Europe","Years",81.9
+"New Caledonia","Australia and Oceania","DeathsPer100k",NA
+"New Caledonia","Australia and Oceania","DeathsPer1000",4.8
+"New Caledonia","Australia and Oceania","Years",79.3
+"New Zealand","Australia and Oceania","DeathsPer100k",7
+"New Zealand","Australia and Oceania","DeathsPer1000",3.3
+"New Zealand","Australia and Oceania","Years",82.9
+"Nicaragua","Central America and the Caribbean","DeathsPer100k",60
+"Nicaragua","Central America and the Caribbean","DeathsPer1000",14.1
+"Nicaragua","Central America and the Caribbean","Years",74.7
+"Niger","Africa","DeathsPer100k",350
+"Niger","Africa","DeathsPer1000",63
+"Niger","Africa","Years",60.9
+"Nigeria","Africa","DeathsPer100k",993
+"Nigeria","Africa","DeathsPer1000",65.6
+"Nigeria","Africa","Years",62.2
+"North Macedonia","Europe","DeathsPer100k",3
+"North Macedonia","Europe","DeathsPer1000",6.8
+"North Macedonia","Europe","Years",77.3
+"Northern Mariana Islands","Australia and Oceania","DeathsPer100k",NA
+"Northern Mariana Islands","Australia and Oceania","DeathsPer1000",11.6
+"Northern Mariana Islands","Australia and Oceania","Years",77.1
+"Norway","Europe","DeathsPer100k",1
+"Norway","Europe","DeathsPer1000",1.8
+"Norway","Europe","Years",82.9
+"Oman","Middle East","DeathsPer100k",13
+"Oman","Middle East","DeathsPer1000",13.6
+"Oman","Middle East","Years",77.4
+"Pakistan","South Asia","DeathsPer100k",155
+"Pakistan","South Asia","DeathsPer1000",50.3
+"Pakistan","South Asia","Years",70.3
+"Palau","Australia and Oceania","DeathsPer100k",89
+"Palau","Australia and Oceania","DeathsPer1000",10.6
+"Palau","Australia and Oceania","Years",75.2
+"Panama","Central America and the Caribbean","DeathsPer100k",37
+"Panama","Central America and the Caribbean","DeathsPer1000",13.2
+"Panama","Central America and the Caribbean","Years",79.2
+"Papua New Guinea","East and Southeast Asia","DeathsPer100k",189
+"Papua New Guinea","East and Southeast Asia","DeathsPer1000",31.3
+"Papua New Guinea","East and Southeast Asia","Years",70.1
+"Paraguay","South America","DeathsPer100k",58
+"Paraguay","South America","DeathsPer1000",21.4
+"Paraguay","South America","Years",78.8
+"Peru","South America","DeathsPer100k",51
+"Peru","South America","DeathsPer1000",10.6
+"Peru","South America","Years",68.9
+"Philippines","East and Southeast Asia","DeathsPer100k",84
+"Philippines","East and Southeast Asia","DeathsPer1000",18.5
+"Philippines","East and Southeast Asia","Years",70.8
+"Poland","Europe","DeathsPer100k",2
+"Poland","Europe","DeathsPer1000",4.6
+"Poland","Europe","Years",76.7
+"Portugal","Europe","DeathsPer100k",15
+"Portugal","Europe","DeathsPer1000",2.4
+"Portugal","Europe","Years",81.9
+"Puerto Rico","Central America and the Caribbean","DeathsPer100k",11
+"Puerto Rico","Central America and the Caribbean","DeathsPer1000",5.7
+"Puerto Rico","Central America and the Caribbean","Years",82.1
+"Qatar","Middle East","DeathsPer100k",4
+"Qatar","Middle East","DeathsPer1000",6.2
+"Qatar","Middle East","Years",80.3
+"Romania","Europe","DeathsPer100k",12
+"Romania","Europe","DeathsPer1000",5.3
+"Romania","Europe","Years",76.9
+"Russia","Central Asia","DeathsPer100k",9
+"Russia","Central Asia","DeathsPer1000",6.4
+"Russia","Central Asia","Years",72.3
+"Rwanda","Africa","DeathsPer100k",229
+"Rwanda","Africa","DeathsPer1000",27.4
+"Rwanda","Africa","Years",66.6
+"Saint Barthelemy","Central America and the Caribbean","DeathsPer100k",NA
+"Saint Barthelemy","Central America and the Caribbean","DeathsPer1000",6.3
+"Saint Barthelemy","Central America and the Caribbean","Years",81
+"Saint Helena, Ascension, and Tristan da Cunha","Africa","DeathsPer100k",NA
+"Saint Helena, Ascension, and Tristan da Cunha","Africa","DeathsPer1000",17.5
+"Saint Helena, Ascension, and Tristan da Cunha","Africa","Years",80.9
+"Saint Kitts and Nevis","Central America and the Caribbean","DeathsPer100k",74
+"Saint Kitts and Nevis","Central America and the Caribbean","DeathsPer1000",7.9
+"Saint Kitts and Nevis","Central America and the Caribbean","Years",77.6
+"Saint Lucia","Central America and the Caribbean","DeathsPer100k",44
+"Saint Lucia","Central America and the Caribbean","DeathsPer1000",11.3
+"Saint Lucia","Central America and the Caribbean","Years",79.4
+"Saint Martin","Central America and the Caribbean","DeathsPer100k",NA
+"Saint Martin","Central America and the Caribbean","DeathsPer1000",6.3
+"Saint Martin","Central America and the Caribbean","Years",81
+"Saint Pierre and Miquelon","North America","DeathsPer100k",NA
+"Saint Pierre and Miquelon","North America","DeathsPer1000",7.6
+"Saint Pierre and Miquelon","North America","Years",81.8
+"Saint Vincent and the Grenadines","Central America and the Caribbean","DeathsPer100k",56
+"Saint Vincent and the Grenadines","Central America and the Caribbean","DeathsPer1000",12
+"Saint Vincent and the Grenadines","Central America and the Caribbean","Years",77.2
+"Samoa","Australia and Oceania","DeathsPer100k",101
+"Samoa","Australia and Oceania","DeathsPer1000",17.2
+"Samoa","Australia and Oceania","Years",75.7
+"San Marino","Europe","DeathsPer100k",8
+"San Marino","Europe","DeathsPer1000",6.1
+"San Marino","Europe","Years",84.2
+"Sao Tome and Principe","Africa","DeathsPer100k",75
+"Sao Tome and Principe","Africa","DeathsPer1000",41.7
+"Sao Tome and Principe","Africa","Years",67.7
+"Saudi Arabia","Middle East","DeathsPer100k",7
+"Saudi Arabia","Middle East","DeathsPer1000",11.4
+"Saudi Arabia","Middle East","Years",77.2
+"Senegal","Africa","DeathsPer100k",237
+"Senegal","Africa","DeathsPer1000",30.4
+"Senegal","Africa","Years",70.6
+"Serbia","Europe","DeathsPer100k",11
+"Serbia","Europe","DeathsPer1000",4.4
+"Serbia","Europe","Years",75.3
+"Seychelles","Africa","DeathsPer100k",42
+"Seychelles","Africa","DeathsPer1000",10
+"Seychelles","Africa","Years",76.6
+"Sierra Leone","Africa","DeathsPer100k",354
+"Sierra Leone","Africa","DeathsPer1000",70.1
+"Sierra Leone","Africa","Years",59.4
+"Singapore","East and Southeast Asia","DeathsPer100k",6
+"Singapore","East and Southeast Asia","DeathsPer1000",1.5
+"Singapore","East and Southeast Asia","Years",86.7
+"Sint Maarten","Central America and the Caribbean","DeathsPer100k",NA
+"Sint Maarten","Central America and the Caribbean","DeathsPer1000",7.5
+"Sint Maarten","Central America and the Caribbean","Years",79.7
+"Slovakia","Europe","DeathsPer100k",4
+"Slovakia","Europe","DeathsPer1000",5
+"Slovakia","Europe","Years",77.2
+"Slovenia","Europe","DeathsPer100k",3
+"Slovenia","Europe","DeathsPer1000",1.8
+"Slovenia","Europe","Years",82.2
+"Solomon Islands","Australia and Oceania","DeathsPer100k",123
+"Solomon Islands","Australia and Oceania","DeathsPer1000",18.6
+"Solomon Islands","Australia and Oceania","Years",77.2
+"Somalia","Africa","DeathsPer100k",563
+"Somalia","Africa","DeathsPer1000",81.5
+"Somalia","Africa","Years",56.5
+"South Africa","Africa","DeathsPer100k",118
+"South Africa","Africa","DeathsPer1000",19.7
+"South Africa","Africa","Years",71.9
+"South Sudan","Africa","DeathsPer100k",692
+"South Sudan","Africa","DeathsPer1000",58.6
+"South Sudan","Africa","Years",60.3
+"Spain","Europe","DeathsPer100k",3
+"Spain","Europe","DeathsPer1000",2.4
+"Spain","Europe","Years",83
+"Sri Lanka","South Asia","DeathsPer100k",18
+"Sri Lanka","South Asia","DeathsPer1000",6.8
+"Sri Lanka","South Asia","Years",76.8
+"Sudan","Africa","DeathsPer100k",256
+"Sudan","Africa","DeathsPer1000",39.7
+"Sudan","Africa","Years",67.8
+"Suriname","South America","DeathsPer100k",84
+"Suriname","South America","DeathsPer1000",29.3
+"Suriname","South America","Years",72.7
+"Sweden","Europe","DeathsPer100k",4
+"Sweden","Europe","DeathsPer1000",2.2
+"Sweden","Europe","Years",82.9
+"Switzerland","Europe","DeathsPer100k",5
+"Switzerland","Europe","DeathsPer1000",3
+"Switzerland","Europe","Years",83.9
+"Syria","Middle East","DeathsPer100k",20
+"Syria","Middle East","DeathsPer1000",14.7
+"Syria","Middle East","Years",74.8
+"Taiwan","East and Southeast Asia","DeathsPer100k",NA
+"Taiwan","East and Southeast Asia","DeathsPer1000",3.8
+"Taiwan","East and Southeast Asia","Years",81.6
+"Tajikistan","Central Asia","DeathsPer100k",14
+"Tajikistan","Central Asia","DeathsPer1000",20.3
+"Tajikistan","Central Asia","Years",71.9
+"Tanzania","Africa","DeathsPer100k",276
+"Tanzania","Africa","DeathsPer1000",28.4
+"Tanzania","Africa","Years",70.8
+"Thailand","East and Southeast Asia","DeathsPer100k",34
+"Thailand","East and Southeast Asia","DeathsPer1000",6.2
+"Thailand","East and Southeast Asia","Years",78.2
+"Timor-Leste","East and Southeast Asia","DeathsPer100k",192
+"Timor-Leste","East and Southeast Asia","DeathsPer1000",41.9
+"Timor-Leste","East and Southeast Asia","Years",70.5
+"Togo","Africa","DeathsPer100k",349
+"Togo","Africa","DeathsPer1000",34.5
+"Togo","Africa","Years",72.1
+"Tonga","Australia and Oceania","DeathsPer100k",67
+"Tonga","Australia and Oceania","DeathsPer1000",11.5
+"Tonga","Australia and Oceania","Years",78
+"Trinidad and Tobago","Central America and the Caribbean","DeathsPer100k",54
+"Trinidad and Tobago","Central America and the Caribbean","DeathsPer1000",14.7
+"Trinidad and Tobago","Central America and the Caribbean","Years",76.5
+"Tunisia","Africa","DeathsPer100k",36
+"Tunisia","Africa","DeathsPer1000",10.6
+"Tunisia","Africa","Years",77.3
+"Turkey (Turkiye)","Middle East","DeathsPer100k",15
+"Turkey (Turkiye)","Middle East","DeathsPer1000",17.9
+"Turkey (Turkiye)","Middle East","Years",76.7
+"Turkmenistan","Central Asia","DeathsPer100k",5
+"Turkmenistan","Central Asia","DeathsPer1000",35
+"Turkmenistan","Central Asia","Years",72.4
+"Turks and Caicos Islands","Central America and the Caribbean","DeathsPer100k",NA
+"Turks and Caicos Islands","Central America and the Caribbean","DeathsPer1000",10.8
+"Turks and Caicos Islands","Central America and the Caribbean","Years",81.3
+"Tuvalu","Australia and Oceania","DeathsPer100k",170
+"Tuvalu","Australia and Oceania","DeathsPer1000",27.2
+"Tuvalu","Australia and Oceania","Years",69
+"Uganda","Africa","DeathsPer100k",170
+"Uganda","Africa","DeathsPer1000",27.5
+"Uganda","Africa","Years",69.7
+"Ukraine","Europe","DeathsPer100k",15
+"Ukraine","Europe","DeathsPer1000",8.4
+"Ukraine","Europe","Years",70.5
+"United Arab Emirates","Middle East","DeathsPer100k",3
+"United Arab Emirates","Middle East","DeathsPer1000",4.9
+"United Arab Emirates","Middle East","Years",79.9
+"United Kingdom","Europe","DeathsPer100k",8
+"United Kingdom","Europe","DeathsPer1000",3.7
+"United Kingdom","Europe","Years",82.2
+"United States","North America","DeathsPer100k",17
+"United States","North America","DeathsPer1000",5
+"United States","North America","Years",80.9
+"Uruguay","South America","DeathsPer100k",15
+"Uruguay","South America","DeathsPer1000",6.9
+"Uruguay","South America","Years",78.9
+"Uzbekistan","Central Asia","DeathsPer100k",26
+"Uzbekistan","Central Asia","DeathsPer1000",17.6
+"Uzbekistan","Central Asia","Years",76.2
+"Vanuatu","Australia and Oceania","DeathsPer100k",100
+"Vanuatu","Australia and Oceania","DeathsPer1000",13.4
+"Vanuatu","Australia and Oceania","Years",75.7
+"Venezuela","South America","DeathsPer100k",227
+"Venezuela","South America","DeathsPer1000",13.6
+"Venezuela","South America","Years",74.5
+"Vietnam","East and Southeast Asia","DeathsPer100k",48
+"Vietnam","East and Southeast Asia","DeathsPer1000",13.8
+"Vietnam","East and Southeast Asia","Years",76.1
+"Virgin Islands","Central America and the Caribbean","DeathsPer100k",NA
+"Virgin Islands","Central America and the Caribbean","DeathsPer1000",7.2
+"Virgin Islands","Central America and the Caribbean","Years",80.7
+"Wallis and Futuna","Australia and Oceania","DeathsPer100k",NA
+"Wallis and Futuna","Australia and Oceania","DeathsPer1000",3.8
+"Wallis and Futuna","Australia and Oceania","Years",81.1
+"West Bank","Middle East","DeathsPer100k",16
+"West Bank","Middle East","DeathsPer1000",14.2
+"West Bank","Middle East","Years",76.5
+"Yemen","Middle East","DeathsPer100k",118
+"Yemen","Middle East","DeathsPer1000",42.4
+"Yemen","Middle East","Years",68.2
+"Zambia","Africa","DeathsPer100k",85
+"Zambia","Africa","DeathsPer1000",30.1
+"Zambia","Africa","Years",66.9
+"Zimbabwe","Africa","DeathsPer100k",358
+"Zimbabwe","Africa","DeathsPer1000",32.8
+"Zimbabwe","Africa","Years",67.2
