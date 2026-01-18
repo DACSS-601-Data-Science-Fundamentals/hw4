@@ -84,16 +84,16 @@ head(joinedData_CSV)
 
 # Aggregate data by Region
 ```{r}
-# sum of data by region for DeathPer100k, DeathsPer1000, Years columns
-sumByRegion = aggregate(data=joinedData,cbind(DeathsPer100k,DeathsPer1000,Years)~Region,sum)
+# mean of data by region for DeathPer100k, DeathsPer1000, Years columns
+meanByRegion = aggregate(data=joinedData,cbind(DeathsPer100k,DeathsPer1000,Years)~Region,mean)
 
 # show aggregated data
-sumByRegion
+meanByRegion
 ```
 ## Save aggregated data
 ```{r}
 # save the aggregated data as a CSV file
-write.csv(sumByRegion,"aggregatedData.csv", row.names=FALSE)
+write.csv(meanByRegion,"aggregatedData.csv", row.names=FALSE)
 
 # read in the saved CSV file for aggregated data by Region
 aggregatedData_CSV = read.csv("aggregatedData.csv")

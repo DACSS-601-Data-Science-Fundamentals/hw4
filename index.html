@@ -476,43 +476,43 @@ head(joinedData_CSV)</code></pre>
 </div>
 <div id="aggregate-data-by-region" class="section level1">
 <h1>Aggregate data by Region</h1>
-<pre class="r"><code># sum of data by region for DeathPer100k, DeathsPer1000, Years columns
-sumByRegion = aggregate(data=joinedData,cbind(DeathsPer100k,DeathsPer1000,Years)~Region,sum)
+<pre class="r"><code># mean of data by region for DeathPer100k, DeathsPer1000, Years columns
+meanByRegion = aggregate(data=joinedData,cbind(DeathsPer100k,DeathsPer1000,Years)~Region,mean)
 
 # show aggregated data
-sumByRegion</code></pre>
-<pre><code>##                               Region DeathsPer100k DeathsPer1000  Years
-## 1                             Africa         15775        2136.7 3621.7
-## 2              Australia and Oceania          1326         207.8 1056.9
-## 3  Central America and the Caribbean          1454         277.7 1607.4
-## 4                       Central Asia           163         154.1  664.4
-## 5            East and Southeast Asia          1320         273.3 1284.9
-## 6                             Europe           294         168.8 3365.2
-## 7                        Middle East           367         206.9 1234.6
-## 8                      North America            71          21.1  239.7
-## 9                      South America           880         171.9  903.9
-## 10                        South Asia          1110         221.7  569.0</code></pre>
+meanByRegion</code></pre>
+<pre><code>##                               Region DeathsPer100k DeathsPer1000    Years
+## 1                             Africa     292.12963     39.568519 67.06852
+## 2              Australia and Oceania      94.71429     14.842857 75.49286
+## 3  Central America and the Caribbean      69.23810     13.223810 76.54286
+## 4                       Central Asia      18.11111     17.122222 73.82222
+## 5            East and Southeast Asia      77.64706     16.076471 75.58235
+## 6                             Europe       7.00000      4.019048 80.12381
+## 7                        Middle East      22.93750     12.931250 77.16250
+## 8                      North America      23.66667      7.033333 79.90000
+## 9                      South America      73.33333     14.325000 75.32500
+## 10                        South Asia     138.75000     27.712500 71.12500</code></pre>
 <div id="save-aggregated-data" class="section level2">
 <h2>Save aggregated data</h2>
 <pre class="r"><code># save the aggregated data as a CSV file
-write.csv(sumByRegion,&quot;aggregatedData.csv&quot;, row.names=FALSE)
+write.csv(meanByRegion,&quot;aggregatedData.csv&quot;, row.names=FALSE)
 
 # read in the saved CSV file for aggregated data by Region
 aggregatedData_CSV = read.csv(&quot;aggregatedData.csv&quot;)
 
 # explore the contents of aggregatedData_CSV
 aggregatedData_CSV</code></pre>
-<pre><code>##                               Region DeathsPer100k DeathsPer1000  Years
-## 1                             Africa         15775        2136.7 3621.7
-## 2              Australia and Oceania          1326         207.8 1056.9
-## 3  Central America and the Caribbean          1454         277.7 1607.4
-## 4                       Central Asia           163         154.1  664.4
-## 5            East and Southeast Asia          1320         273.3 1284.9
-## 6                             Europe           294         168.8 3365.2
-## 7                        Middle East           367         206.9 1234.6
-## 8                      North America            71          21.1  239.7
-## 9                      South America           880         171.9  903.9
-## 10                        South Asia          1110         221.7  569.0</code></pre>
+<pre><code>##                               Region DeathsPer100k DeathsPer1000    Years
+## 1                             Africa     292.12963     39.568519 67.06852
+## 2              Australia and Oceania      94.71429     14.842857 75.49286
+## 3  Central America and the Caribbean      69.23810     13.223810 76.54286
+## 4                       Central Asia      18.11111     17.122222 73.82222
+## 5            East and Southeast Asia      77.64706     16.076471 75.58235
+## 6                             Europe       7.00000      4.019048 80.12381
+## 7                        Middle East      22.93750     12.931250 77.16250
+## 8                      North America      23.66667      7.033333 79.90000
+## 9                      South America      73.33333     14.325000 75.32500
+## 10                        South Asia     138.75000     27.712500 71.12500</code></pre>
 </div>
 </div>
 <div id="reshape-data-to-long-format" class="section level1">
